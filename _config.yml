@@ -1,123 +1,120 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+repository: nazarbabii/nazarbabii.github.io
+# favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-# email_title: Email (Email title override)
-phone: Your phone number (optional)
-# phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
+name: Nazar Babii
+title: Senior Software Development Engineer in Test
+email: babiyno@gmail.com
+phone: "+1 773 302 7893"
+website: https://www.linkedin.com/in/nazar-babii-5a624383
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
-
-# Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+github_username: nazarbabii
+linkedin_username: nazar-babii-5a624383
 
 # About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
-about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+about_profile_image: images/profile.jpg
+about_content: |
+  Senior software engineer in test with over 10 years of experience building QA automation frameworks from scratch for SaaS, finance, healthcare, and e-commerce platforms.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Proven leader in data QA automation and anomaly detection, with strong expertise in cloud infrastructure (GCP, Azure), CI/CD, and cross-functional collaboration.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
   - title: Experience
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Bitly Inc.
+        sub_title: Senior Software Development Engineer in Test
+        caption: Oct 2023 – Present
         quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+          SaaS platform for URL analytics and data infrastructure.
+        description: |
+          - Implemented QA for URL management, analytics, and internal data pipelines.
+          - Built internal QA dashboards in Looker Studio & Qase.
+          - Led migration from WebdriverIO to Playwright.
+          - Designed data QA framework using Airflow, Python, BigQuery.
+          - Reduced anomaly detection time from 72h to 24h.
+
+      - layout: right
+        title: Eleks Inc.
+        sub_title: Senior Software Development Engineer in Test
+        caption: Sep 2022 – Oct 2023
+        quote: >
+          QA for US healthcare corporation's mobile apps.
+        description: |
+          - Led automation strategy ensuring HIPAA compliance.
+          - Boosted test coverage from 30% to 64%.
+          - Cut flaky test rate from 21% to 6%.
+          - Evaluated Perfecto and BrowserStack for test infra.
+
+      - layout: right
+        title: ELEKS Ltd.
+        sub_title: Senior Software Development Engineer in Test
+        caption: Aug 2017 – Sep 2022
+        description: |
+          - Started and scaled JavaScript QA automation services.
+          - Built frameworks for online banking and e-commerce.
+          - Mentored 10+ SDETs and delivered multiple presales POCs.
+
+      - layout: right
+        title: N-iX
+        sub_title: Senior Software Development Engineer in Test
+        caption: Feb 2017 – Aug 2017
+        description: |
+          - Migrated automation from Java to Robot Framework + Python.
+          - CI-integrated QA for patient health data apps.
+
+      - layout: right
+        title: GlobalLogic
+        sub_title: Software Development Engineer in Test
+        caption: Feb 2015 – Feb 2017
+        description: |
+          - E2E automation for finance and telecom apps.
+          - Led team of 9; achieved ~70% test coverage.
+
+      - layout: right
+        title: ELEKS Ltd.
+        sub_title: Software Engineer in Localization
+        caption: Jan 2011 – Feb 2015
+        description: |
+          - QA for desktop & web antivirus software.
+          - Fixed 25%+ of automation-detected defects.
+
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+        title: Lviv Polytechnic National University
+        sub_title: Master's in Computer Engineering & System Programming
+        caption: 2010
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      - layout: top-right
+        title: Lviv Polytechnic National University
+        sub_title: Bachelor's in Computer Engineering
+        caption: 2008
+
+  - title: Skills
+    layout: text
+    content: |
+      **Languages**: JavaScript, Python, Java, SQL  
+      **Frameworks**: WebdriverIO, Playwright, Appium, Selenium, Robot Framework, Gatling, JMeter, Mocha, Pytest, Jasmine  
+      **Cloud & Infra**: GCP, Azure, Airflow, Terraform  
+      **Tools**: BrowserStack, Perfecto, Sauce Labs, SonarQube, Postman, Mailtrap.io  
+      **Soft Skills**: Agile, cross-team leadership, stakeholder communication
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
 
 # Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+remote_theme: sproogen/modern-resume-theme
 
 sass:
   sass_dir: _sass
@@ -137,4 +134,4 @@ exclude : [
   "lib/",
   "scripts/",
   "docker-compose.yml",
-  ]
+]
