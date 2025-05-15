@@ -21,33 +21,37 @@ linkedin_username: nazar-babii-5a624383
 # About Section
 about_profile_image: images/profile.jpg
 about_content: |
-  Senior software engineer in test with over 10 years of experience building QA automation frameworks from scratch for SaaS, finance, healthcare, and e-commerce platforms.
+  Senior Software Development Engineer in Test, with over 10 years of experience building QA automation frameworks.
 
-  Proven leader in data QA automation and anomaly detection, with strong expertise in cloud infrastructure (GCP, Azure), CI/CD, and cross-functional collaboration.
+  Driven QA automation projects from scratch for SaaS, finance, healthcare, and e-commerce applications.
+
+  Proven background in building QA automated testing architecture and processes.
+
+  Mentored more than 10 engineers, providing professional guidance and facilitating their growth.
 
 content:
   - title: Experience
     layout: list
     content:
       - layout: right
-        title: Bitly Inc.
-        sub_title: Senior Software Development Engineer in Test
+        title: Senior Software Development Engineer in Test
+        sub_title: Bitly Inc. (US)
         caption: Oct 2023 – Present
         quote: >
-          SaaS platform for URL analytics and data infrastructure.
+          SDET for SaaS platform for URL analytics and data infrastructure.
         description: |
-          - Implemented QA for URL management, analytics, and internal data pipelines.
+          - Implemented automated QA for URL management SaaS, analytics, and internal data pipelines.
           - Built internal QA dashboards in Looker Studio & Qase.
           - Led migration from WebdriverIO to Playwright.
           - Designed data QA framework using Airflow, Python, BigQuery.
-          - Reduced anomaly detection time from 72h to 24h.
+          - Reduced data anomaly detection time from 72h to 24h.
 
       - layout: right
-        title: Eleks Inc.
-        sub_title: Senior Software Development Engineer in Test
+        title: Senior Software Development Engineer in Test
+        sub_title: Eleks Inc. 
         caption: Sep 2022 – Oct 2023
         quote: >
-          QA for US healthcare corporation's mobile apps.
+          SDET in software consulting company, client - US healthcare corporation.
         description: |
           - Led automation strategy ensuring HIPAA compliance.
           - Boosted test coverage from 30% to 64%.
@@ -55,34 +59,43 @@ content:
           - Evaluated Perfecto and BrowserStack for test infra.
 
       - layout: right
-        title: ELEKS Ltd.
-        sub_title: Senior Software Development Engineer in Test
+        title: Senior Software Development Engineer in Test
+        sub_title: ELEKS Ltd.
         caption: Aug 2017 – Sep 2022
+        quote: >
+          SDET in software consulting company, clients - US financial group, UK health and wellness group.
         description: |
           - Started and scaled JavaScript QA automation services.
           - Built frameworks for online banking and e-commerce.
-          - Mentored 10+ SDETs and delivered multiple presales POCs.
+          - Mentored 10+ SDETs and delivered multiple pre-sales POCs.
+          - Led migration from Protractor to WebdriverIO.
 
       - layout: right
-        title: N-iX
-        sub_title: Senior Software Development Engineer in Test
+        title: Senior Software Development Engineer in Test
+        sub_title: N-iX
         caption: Feb 2017 – Aug 2017
+        quote: >
+          SDET in software consulting company, clients - US healthcare startup.
         description: |
           - Migrated automation from Java to Robot Framework + Python.
           - CI-integrated QA for patient health data apps.
 
       - layout: right
-        title: GlobalLogic
-        sub_title: Software Development Engineer in Test
+        title: Software Development Engineer in Test
+        sub_title: GlobalLogic
         caption: Feb 2015 – Feb 2017
+        quote: >
+          SDET in software consulting company, client - Lebanon financial group.
         description: |
-          - E2E automation for finance and telecom apps.
+          - E2E QA automation for finance and telecom apps.
           - Led team of 9; achieved ~70% test coverage.
 
       - layout: right
-        title: ELEKS Ltd.
-        sub_title: Software Engineer in Localization
+        title: Software Engineer in Localization
+        sub_title: ELEKS Ltd.
         caption: Jan 2011 – Feb 2015
+        quote: >
+          Software Engineer in software consulting company, client - World famous web security company.
         description: |
           - QA for desktop & web antivirus software.
           - Fixed 25%+ of automation-detected defects.
@@ -91,23 +104,23 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Lviv Polytechnic National University
-        sub_title: Master's in Computer Engineering & System Programming
+        title: Master's in Computer Engineering & System Programming
+        sub_title: Lviv Polytechnic National University
         caption: 2010
 
       - layout: top-right
-        title: Lviv Polytechnic National University
-        sub_title: Bachelor's in Computer Engineering
+        title: Bachelor's in Computer Engineering
+        sub_title: Lviv Polytechnic National University
         caption: 2008
 
   - title: Skills
     layout: text
     content: |
       **Languages**: JavaScript, Python, Java, SQL  
-      **Frameworks**: WebdriverIO, Playwright, Appium, Selenium, Robot Framework, Gatling, JMeter, Mocha, Pytest, Jasmine  
-      **Cloud & Infra**: GCP, Azure, Airflow, Terraform  
-      **Tools**: BrowserStack, Perfecto, Sauce Labs, SonarQube, Postman, Mailtrap.io  
-      **Soft Skills**: Agile, cross-team collaboration, leadership communication
+      **Frameworks**: WebdriverIO, Playwright, Appium, Selenium, Robot Framework, Gatling.io, Jmeter, Mocha, TestNG, Pytest, Jasmine.  
+      **Cloud & Infra**: GCP, Azure. 
+      **Tools**: BrowserStack, Perfecto, Sauce Labs, Node.js, CI/CD, SonarQube, Android SDK, iOS SDK (Xcode), Terraform, Twilio, Resemble.js, Octa, Mailtrap.io, Postman.
+      **Soft Skills**: Agile, Scrum, Kanban, cross-team collaborations, leadership communication, team leading.
 
 # Footer
 footer_show_references: true
