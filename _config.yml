@@ -10,7 +10,6 @@ name: Nazar Babii
 title: Senior Software Development Engineer in Test
 email: babiyno@gmail.com
 phone: "+1 773 302 7893"
-website: https://www.linkedin.com/in/nazar-babii-5a624383
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -108,7 +107,7 @@ content:
       **Frameworks**: WebdriverIO, Playwright, Appium, Selenium, Robot Framework, Gatling, JMeter, Mocha, Pytest, Jasmine  
       **Cloud & Infra**: GCP, Azure, Airflow, Terraform  
       **Tools**: BrowserStack, Perfecto, Sauce Labs, SonarQube, Postman, Mailtrap.io  
-      **Soft Skills**: Agile, cross-team leadership, stakeholder communication
+      **Soft Skills**: Agile, cross-team collaboration, leadership communication
 
 # Footer
 footer_show_references: true
