@@ -38,20 +38,20 @@ content:
         sub_title: Senior Software Development Engineer in Test
         caption: Oct 2023 – Present
         quote: >
-          SDET for SaaS platform for URL analytics and data infrastructure.
+          SDET for SaaS platform for URL management and analytics.
         description: |
-          - Implemented automated QA for URL management SaaS, analytics, and internal data pipelines.
-          - Built internal QA dashboards in Looker Studio & Qase.
+          - Implemented automated QA for SaaS web platform, data analytics, and internal data platform.
           - Led migration from WebdriverIO to Playwright.
           - Designed data QA framework using Airflow, Python, BigQuery.
           - Reduced data anomaly detection time from 72h to 24h.
+          - Built internal QA analytics dashboards.
 
       - layout: right
         title: Eleks Inc. | US
         sub_title: Senior Software Development Engineer in Test
         caption: Sep 2022 – Oct 2023
         quote: >
-          SDET in software consulting company, client - US healthcare corporation.
+          SDET in software consulting company, client: US healthcare corporation.
         description: |
           - Led automation strategy ensuring HIPAA compliance.
           - Boosted test coverage from 30% to 64%.
@@ -63,7 +63,7 @@ content:
         sub_title: Senior Software Development Engineer in Test
         caption: Aug 2017 – Sep 2022
         quote: >
-          SDET in software consulting company, clients - US financial group, UK health and wellness group.
+          SDET in software consulting company, clients: US financial group, UK health and wellness group.
         description: |
           - Started and scaled JavaScript QA automation services.
           - Built frameworks for online banking and e-commerce.
@@ -75,17 +75,17 @@ content:
         sub_title: Senior Software Development Engineer in Test
         caption: Feb 2017 – Aug 2017
         quote: >
-          SDET in software consulting company, clients - US healthcare startup.
+          SDET in software consulting company, clients: US healthcare startup.
         description: |
           - Migrated automation from Java to Robot Framework + Python.
-          - CI-integrated QA for patient health data apps.
+          - Implemented CI-integrated QA for patient health data app.
 
       - layout: right
         title: GlobalLogic | UA
         sub_title: Software Development Engineer in Test
         caption: Feb 2015 – Feb 2017
         quote: >
-          SDET in software consulting company, client - Lebanon financial group.
+          SDET in software consulting company, client: Lebanon financial group.
         description: |
           - E2E QA automation for finance and telecom apps.
           - Led team of 9; achieved ~70% test coverage.
@@ -95,7 +95,7 @@ content:
         sub_title: Software Engineer in Localization
         caption: Jan 2011 – Feb 2015
         quote: >
-          Software Engineer in software consulting company, client - World famous web security company.
+          Software Engineer in software consulting company, client: World-famous web security company.
         description: |
           - QA for desktop & web antivirus software.
           - Fixed 25%+ of automation-detected defects.
@@ -118,9 +118,9 @@ content:
     content: |
       **Languages**: JavaScript, Python, Java, SQL  
       **Frameworks**: WebdriverIO, Playwright, Appium, Selenium, Robot Framework, Gatling.io, Jmeter, Mocha, TestNG, Pytest, Jasmine.  
-      **Cloud & Infra**: GCP, Azure. 
-      **Tools**: BrowserStack, Perfecto, Sauce Labs, Node.js, CI/CD, SonarQube, Android SDK, iOS SDK (Xcode), Terraform, Twilio, Resemble.js, Octa, Mailtrap.io, Postman.
-      **Soft Skills**: Agile, Scrum, Kanban, cross-team collaborations, leadership communication, team leading.
+      **Cloud & Infra**: GCP, Azure.  
+      **Tools**: BrowserStack, Perfecto, Sauce Labs, Node.js, CI/CD, SonarQube, Android SDK, iOS SDK (Xcode), Terraform, Twilio, Resemble.js, Octa, Mailtrap.io, Postman.  
+      **Other Skills**: Agile, Scrum, Kanban, team leading, cross-teams collaborations, leadership communication.
 
 # Footer
 footer_show_references: true
