@@ -30,6 +30,15 @@ about_content: |
   - Mentored more than 15 engineers, providing professional guidance and facilitating their growth.
 
 content:
+  - title: Skills
+    layout: text
+    content: |
+      **Languages**: JavaScript, Python, Java, SQL  
+      **Frameworks**: WebdriverIO, Playwright, Appium, Selenium, Robot Framework, Gatling.io, Jmeter, Mocha, TestNG, Pytest, Jasmine.  
+      **Cloud & Infra**: GCP, Azure.  
+      **Tools**: BrowserStack, Perfecto, Sauce Labs, Node.js, CI/CD, SonarQube, Android SDK, iOS SDK (Xcode), Terraform, Twilio, Resemble.js, Octa, Mailtrap.io, Postman, Artillery.io, Gatling.io.  
+      **Other Skills**: Agile, Scrum, Kanban, team leading, cross-teams collaborations, leadership communication.
+
   - title: Experience
     layout: list
     content:
@@ -112,15 +121,6 @@ content:
         title: Bachelor's in Computer Engineering
         sub_title: Lviv Polytechnic National University
         caption: 2008
-
-  - title: Skills
-    layout: text
-    content: |
-      **Languages**: JavaScript, Python, Java, SQL  
-      **Frameworks**: WebdriverIO, Playwright, Appium, Selenium, Robot Framework, Gatling.io, Jmeter, Mocha, TestNG, Pytest, Jasmine.  
-      **Cloud & Infra**: GCP, Azure.  
-      **Tools**: BrowserStack, Perfecto, Sauce Labs, Node.js, CI/CD, SonarQube, Android SDK, iOS SDK (Xcode), Terraform, Twilio, Resemble.js, Octa, Mailtrap.io, Postman, Artillery.io, Gatling.io.  
-      **Other Skills**: Agile, Scrum, Kanban, team leading, cross-teams collaborations, leadership communication.
 
 # Footer
 footer_show_references: true
