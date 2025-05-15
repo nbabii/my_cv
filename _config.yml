@@ -23,7 +23,7 @@ about_profile_image: images/profile.jpg
 about_content: |
   - Senior Software Development Engineer in Test, with over 10 years of experience building QA automation frameworks.
    
-  - Driven QA automation projects from scratch for SaaS, finance, healthcare, and e-commerce applications.
+  - Driven QA automation projects from scratch for SaaS, finance, healthcare, and e-commerce projects.
    
   - Proven background in building QA automated testing architecture and processes.
    
@@ -51,7 +51,7 @@ content:
         sub_title: Senior Software Development Engineer in Test
         caption: Sep 2022 – Oct 2023
         quote: >
-          SDET in software consulting company, client: US healthcare corporation.
+          SDET in software consulting company, project: US healthcare corporation.
         description: |
           - Led automation strategy ensuring HIPAA compliance.
           - Boosted test coverage from 30% to 64%.
@@ -63,7 +63,7 @@ content:
         sub_title: Senior Software Development Engineer in Test
         caption: Aug 2017 – Sep 2022
         quote: >
-          SDET in software consulting company, clients: US financial group, UK health and wellness group.
+          SDET in software consulting company, projects: US financial group, UK health and wellness group.
         description: |
           - Started and scaled JavaScript QA automation services.
           - Built frameworks for online banking and e-commerce.
@@ -75,7 +75,7 @@ content:
         sub_title: Senior Software Development Engineer in Test
         caption: Feb 2017 – Aug 2017
         quote: >
-          SDET in software consulting company, clients: US healthcare startup.
+          SDET in software consulting company, project: US healthcare startup.
         description: |
           - Migrated automation from Java to Robot Framework + Python.
           - Implemented CI-integrated QA for patient health data app.
@@ -85,7 +85,7 @@ content:
         sub_title: Software Development Engineer in Test
         caption: Feb 2015 – Feb 2017
         quote: >
-          SDET in software consulting company, client: Lebanon financial group.
+          SDET in software consulting company, project: Lebanon financial group.
         description: |
           - E2E QA automation for finance and telecom apps.
           - Led team of 9; achieved ~70% test coverage.
