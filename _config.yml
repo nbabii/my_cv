@@ -15,7 +15,7 @@ darkmode: false
 
 # Social links
 github_username: nbabii
-linkedin_username: nazar-babii-5a624383
+linkedin_username: nbabii
 
 # About Section
 about_profile_image: images/profile.jpg
@@ -42,7 +42,7 @@ content:
     layout: list
     content:
       - layout: right
-        title: Bitly Inc. | US
+        title: Bitly Inc.
         sub_title: Senior Software Development Engineer in Test
         caption: Oct 2023 – Present
         quote: >
@@ -55,7 +55,7 @@ content:
           - Built internal QA analytics dashboards.
 
       - layout: right
-        title: Eleks Inc. | US
+        title: Eleks Inc.
         sub_title: Senior Software Development Engineer in Test
         caption: Sep 2022 – Oct 2023
         quote: >
@@ -67,7 +67,7 @@ content:
           - Evaluated Perfecto and BrowserStack for test infra.
 
       - layout: right
-        title: ELEKS Ltd. | UA/EU
+        title: ELEKS Ltd.
         sub_title: Senior Software Development Engineer in Test
         caption: Aug 2017 – Sep 2022
         quote: >
@@ -79,7 +79,7 @@ content:
           - Led migration from Protractor to WebdriverIO.
 
       - layout: right
-        title: N-iX | UA
+        title: N-iX
         sub_title: Senior Software Development Engineer in Test
         caption: Feb 2017 – Aug 2017
         quote: >
@@ -89,7 +89,7 @@ content:
           - Implemented CI-integrated QA for patient health data app.
 
       - layout: right
-        title: GlobalLogic | UA
+        title: GlobalLogic
         sub_title: Software Development Engineer in Test
         caption: Feb 2015 – Feb 2017
         quote: >
@@ -99,7 +99,7 @@ content:
           - Led and mentored team of 9; achieved ~70% test coverage.
 
       - layout: right
-        title: ELEKS Ltd. | UA
+        title: ELEKS Ltd.
         sub_title: Software Engineer in Localization
         caption: Jan 2011 – Feb 2015
         quote: >
